@@ -1,5 +1,6 @@
-🛒 E-Commerce Sales Dashboard (Power BI)
-📌 Project Overview
+# 🛒 E-Commerce Sales Dashboard (Power BI)
+
+**📌 Project Overview**
 
 The E-Commerce Sales Dashboard is an interactive Power BI report built to analyze sales performance across multiple business dimensions such as Sales, Profit, Quantity, Category, Region, State, and Shipping Type.
 
