@@ -116,6 +116,14 @@ This dashboard helps stakeholders quickly understand business trends, identify t
 
 * Aggregations (SUM, CALCULATE, FILTER)
 
+# 📘 DAX Documentation (PDF)
+
+Detailed explanation of all DAX measures used in this project is available in the PDF file.
+
+👉 Download / View DAX Documentation:
+
+📄 DAX Documentation.pdf
+
 # 📸 Dashboard Preview
 <img width="1430" height="803" alt="image" src="https://github.com/user-attachments/assets/c80a0edb-486d-43b9-a20d-4c65721b41d4" />
 
