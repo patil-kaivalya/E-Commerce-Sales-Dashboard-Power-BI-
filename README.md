@@ -122,9 +122,13 @@ Aggregations (SUM, CALCULATE, FILTER)
 🚀 How to Use This Project
 
 1️⃣ Download the .pbix file from this repository
+
 2️⃣ Open using Power BI Desktop
+
 3️⃣ Refresh dataset if required
+
 4️⃣ Explore dashboard using filters and slicers
+
 
 💡 Business Insights Example
 
@@ -136,13 +140,6 @@ Optimize shipping strategies
 
 Focus on high-performing regions
 
-📁 Repository Structure
-📦 Ecommerce-Sales-Dashboard
- ┣ 📊 PowerBI Dashboard.pbix
- ┣ 📄 ecommerce_data.xlsx / csv
- ┣ 📄 us_state_long_lat_codes.csv
- ┣ 🖼 dashboard.png
- ┗ 📘 README.md
 
 👨‍💻 Author
 
@@ -150,6 +147,7 @@ Kaivalya Patil
 Data Analyst
 
 🔗 LinkedIn: www.linkedin.com/in/kaivalya-patil-765173207
+
 🔗 Portfolio: https://patil-kaivalya.github.io/Portfolio_Website_of_KAIVALYA/
 
 ⭐ If You Like This Project
