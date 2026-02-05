@@ -5,146 +5,140 @@ The E-Commerce Sales Dashboard is an interactive Power BI report built to analyz
 
 This dashboard helps stakeholders quickly understand business trends, identify top and bottom performing products, and monitor year-to-date performance.
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 
-Track Year-to-Date (YTD) Sales, Profit, Quantity, and Profit Margin
+* Track Year-to-Date (YTD) Sales, Profit, Quantity, and Profit Margin
 
-Compare Current Year vs Previous Year performance
+* Compare Current Year vs Previous Year performance
 
-Identify Top 5 and Bottom 5 Products
+* Identify Top 5 and Bottom 5 Products
 
-Analyze Sales Distribution by Region and Shipping Type
+* Analyze Sales Distribution by Region and Shipping Type
 
-Visualize Sales by State using Map Visualization
+* Visualize Sales by State using Map Visualization
 
-🧰 Tools & Technologies Used
+# 🧰 Tools & Technologies Used
 
-Power BI Desktop
+* Power BI Desktop
 
-Microsoft Excel
+* Microsoft Excel
 
-DAX (Data Analysis Expressions)
+* DAX (Data Analysis Expressions)
 
-Data Modeling
+* Data Modeling
 
-Data Visualization
+* Data Visualization
 
-📂 Dataset Information
+# 📂 Dataset Information
 
-The dashboard is created using Excel datasets containing:
+* The dashboard is created using Excel datasets containing:
 
-🧾 Orders Data
+# 🧾 Orders Data
 
-Order ID
+* Order ID
 
-Product ID
+* Product ID
 
-Product Name
+* Product Name
 
-Product State
+* Product State
 
-Selling Price
+* Selling Price
 
-Product Cost
+* Product Cost
 
-Quantity
+* Quantity
 
-👥 Customer Data
+# 👥 Customer Data
 
-Customer Name
+* Customer Name
 
-Order ID
+* Order ID
 
-Order Date
+* Order Date
 
-Product ID
+* Product ID
 
-City
+* City
 
-State
+* State
 
-🗺 Supporting Files
+* 🗺 Supporting Files
 
-US State Latitude & Longitude Codes (for Map Visualization)
+* US State Latitude & Longitude Codes (for Map Visualization)
 
-📊 Dashboard Features
-✅ KPI Cards
+# 📊 Dashboard Features
 
-YTD Sales
+# ✅ KPI Cards
 
-YTD Profit
+* YTD Sales
 
-YTD Quantity
+* YTD Profit
 
-YTD Profit Margin
+* YTD Quantity
 
-✅ Category Analysis
+* YTD Profit Margin
 
-Furniture
+# ✅ Category Analysis
 
-Office Supplies
+* Furniture
 
-Technology
+* Office Supplies
 
-✅ Product Performance
+* Technology
 
-Top 5 Products by YTD Sales
+# ✅ Product Performance
 
-Bottom 5 Products by YTD Sales
+* Top 5 Products by YTD Sales
 
-✅ Regional Analysis
+* Bottom 5 Products by YTD Sales
 
-Sales by Region (Donut Chart)
+# ✅ Regional Analysis
 
-Sales by Shipping Type
+* Sales by Region (Donut Chart)
 
-✅ Geo Analysis
+* Sales by Shipping Type
 
-Sales by State (Map Visualization)
+# ✅ Geo Analysis
 
-🧮 Key DAX Concepts Used
+* Sales by State (Map Visualization)
 
-YTD Calculations
+# 🧮 Key DAX Concepts Used
 
-YoY Growth %
+* YTD Calculations
 
-Profit Margin Calculation
+* YoY Growth %
 
-Ranking (Top N / Bottom N)
+* Profit Margin Calculation
 
-Aggregations (SUM, CALCULATE, FILTER)
+* Ranking (Top N / Bottom N)
 
-📸 Dashboard Preview
+* Aggregations (SUM, CALCULATE, FILTER)
 
-<img width="1427" height="799" alt="image" src="https://github.com/user-attachments/assets/467ec188-6416-4388-8878-b8b6713ced1b" />
+# 📸 Dashboard Preview
+<img width="1430" height="803" alt="image" src="https://github.com/user-attachments/assets/c80a0edb-486d-43b9-a20d-4c65721b41d4" />
 
 
-🚀 How to Use This Project
 
-1️⃣ Download the .pbix file from this repository
 
-2️⃣ Open using Power BI Desktop
 
-3️⃣ Refresh dataset if required
 
-4️⃣ Explore dashboard using filters and slicers
+# 💡 Business Insights Example
 
+* Monitor declining or growing sales trends
 
-💡 Business Insights Example
+* Identify high-profit product categories
 
-Monitor declining or growing sales trends
+* Optimize shipping strategies
 
-Identify high-profit product categories
+* Focus on high-performing regions
 
-Optimize shipping strategies
 
-Focus on high-performing regions
+# 👨‍💻 Author
 
+**Kaivalya Patil**
 
-👨‍💻 Author
-
-Kaivalya Patil
-Data Analyst
+**Data Analyst**
 
 🔗 LinkedIn: www.linkedin.com/in/kaivalya-patil-765173207
 
